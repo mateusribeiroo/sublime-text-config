@@ -1,4 +1,4 @@
-# sublime-text-config
+# Sublime-text config
 
 ## Packages Installeds 📦
 
@@ -66,7 +66,7 @@ sudo apt-get install sublime-merge
 		"Vintage",
 	],
 	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-	"font_face": "JetBrains Mono",
+	"font_face": "JetBrains Mono", // need install JetBrains Mono font
 	"font_options":[
 		//these under are for font ligatures
 		//idk which really enable
@@ -83,6 +83,8 @@ sudo apt-get install sublime-merge
 	"theme": "auto",
 }
 ```
+
+To install the JetBrains Mono font click [HERE](https://www.jetbrains.com/pt-br/lp/mono/#how-to-install).
 
 ## How to use my settings
 
