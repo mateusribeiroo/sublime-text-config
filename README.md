@@ -1,5 +1,4 @@
 # sublime-text-config
-# Sublime-Text Config.MD
 
 ## Packages Installeds 📦
 
