@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Darkula Color Scheme",
+		"Dracula Color Scheme",
+		"Git",
+		"Git blame",
+		"Git Extensions",
+		"GitGutter",
+		"Gitmoji",
+		"LikeGit",
+		"Material Theme",
+		"Monokai Dark",
+		"OmnisStudioHighlighter",
+		"Package Control",
+		"Terminal",
+		"Terminus",
+	],
+}

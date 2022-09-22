@@ -1,0 +1,21 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"font_face": "JetBrains Mono",
+	"font_options":[
+		"gray_antialias",
+		"dlig",
+		"liga", 
+		"clig", 
+		"calt",
+		"dlig",
+		"bold"
+	],
+	"theme": "auto",
+}
